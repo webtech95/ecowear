@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/ecowear-e-commerce-/static/css/main.e5eae1a7.css",
-    "main.js": "/ecowear-e-commerce-/static/js/main.ef0a2b0b.js",
+    "main.js": "/ecowear-e-commerce-/static/js/main.2c6270ec.js",
     "static/js/453.c0b44b28.chunk.js": "/ecowear-e-commerce-/static/js/453.c0b44b28.chunk.js",
     "static/media/Balck_yellow_shirt.webp": "/ecowear-e-commerce-/static/media/Balck_yellow_shirt.1ea57787217fa10a6bea.webp",
     "static/media/Light_Brown_jaket.webp": "/ecowear-e-commerce-/static/media/Light_Brown_jaket.98a3cce54b800f482d0a.webp",
@@ -76,11 +76,11 @@
     "static/media/Trousher.webp": "/ecowear-e-commerce-/static/media/Trousher.e83771da9e26ec29e281.webp",
     "index.html": "/ecowear-e-commerce-/index.html",
     "main.e5eae1a7.css.map": "/ecowear-e-commerce-/static/css/main.e5eae1a7.css.map",
-    "main.ef0a2b0b.js.map": "/ecowear-e-commerce-/static/js/main.ef0a2b0b.js.map",
+    "main.2c6270ec.js.map": "/ecowear-e-commerce-/static/js/main.2c6270ec.js.map",
     "453.c0b44b28.chunk.js.map": "/ecowear-e-commerce-/static/js/453.c0b44b28.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e5eae1a7.css",
-    "static/js/main.ef0a2b0b.js"
+    "static/js/main.2c6270ec.js"
   ]
 }
