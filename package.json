@@ -10,6 +10,7 @@
     "@testing-library/user-event": "^13.5.0",
     "axios": "^1.9.0",
     "css": "^3.0.0",
+    "framer-motion": "^12.23.26",
     "lodash": "^4.17.21",
     "lucide-react": "^0.511.0",
     "razorpay": "^2.9.6",
@@ -26,6 +27,7 @@
     "toolkit": "^1.5.4",
     "web-vitals": "^2.1.4"
   },
+  "homepage": "https://webtech95.github.io/cowear-e-commerce-/",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
@@ -53,6 +55,7 @@
     ]
   },
   "devDependencies": {
+    "gh-pages": "^6.3.0",
     "tailwindcss": "^3.4.17"
   }
 }

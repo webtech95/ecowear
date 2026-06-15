@@ -1,25 +1,11 @@
 import React, { useEffect, useState } from "react";
-import { Routes, Route, useNavigate } from "react-router-dom";
+import { useNavigate } from "react-router-dom";
 import { ToastContainer } from "react-toastify";
 import { X, ShoppingBag, Users } from "lucide-react";
 import "react-toastify/dist/ReactToastify.css";
+import Approute from "./components/Approutes";
 
-import Header from "./components/header";
-import Footer from "./components/Footer";
-import Home from "./components/pages/home";
-import About from "./components/pages/about";
-import Shop from "./components/subPages/shop";
-import Contact from "./components/pages/contact";
-import Register from "./components/subPages/ragistrationpage";
-import Login from "./components/subPages/login";
-import Cart from "./components/Cart/cart";
-import MenPage from "./components/subPages/MenPage";
-import WomenPage from "./components/subPages/WomenPage";
-import KidsPage from "./components/subPages/KidsPage";
-import OrderConfirmation from "./components/pages/OrderConfirmation";
-import CartStep from "./components/pages/ProductCheckout";
-import PlaceOrderPage from "./components/pages/PlaceOrderPage";
-import PaymentPage from "./components/pages/PaymentPage";
+  
 
 function App() {
   const [showWelcomePopup, setShowWelcomePopup] = useState(false);
@@ -91,26 +77,9 @@ function App() {
         </div>
       )}
 
-      <div className="bg-white text-gray-900 min-h-screen">
-        <Header />
-        <Routes>
-          <Route path="/" element={<Home />} />
-          <Route path="/about" element={<About />} />
-          <Route path="/shop" element={<Shop />} />
-          <Route path="/contact" element={<Contact />} />
-          <Route path="/login" element={<Login />} />
-          <Route path="/register" element={<Register />} />
-          <Route path="/cart" element={<Cart />} />
-          <Route path="/men" element={<MenPage />} />
-          <Route path="/women" element={<WomenPage />} />
-          <Route path="/kids" element={<KidsPage />} />
-          <Route path="/CartStep" element={<CartStep />} />
-          <Route path="/place-order" element={<PlaceOrderPage />} />
-          <Route path="/payment" element={<PaymentPage />} />
-          <Route path="/order-confirmation" element={<OrderConfirmation />} />
-        </Routes>
-        <Footer />
-      </div>
+      <Approute />
+
+
     </>
   );
 }
