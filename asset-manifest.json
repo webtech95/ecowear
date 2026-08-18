@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/ecowear/static/css/main.2dfd210f.css",
-    "main.js": "/ecowear/static/js/main.fa290f97.js",
+    "main.js": "/ecowear/static/js/main.46a4d486.js",
     "static/css/651.5159fd39.chunk.css": "/ecowear/static/css/651.5159fd39.chunk.css",
     "static/js/651.7185f375.chunk.js": "/ecowear/static/js/651.7185f375.chunk.js",
     "static/css/320.5159fd39.chunk.css": "/ecowear/static/css/320.5159fd39.chunk.css",
@@ -114,7 +114,7 @@
     "static/media/Trousher.webp": "/ecowear/static/media/Trousher.e83771da9e26ec29e281.webp",
     "index.html": "/ecowear/index.html",
     "main.2dfd210f.css.map": "/ecowear/static/css/main.2dfd210f.css.map",
-    "main.fa290f97.js.map": "/ecowear/static/js/main.fa290f97.js.map",
+    "main.46a4d486.js.map": "/ecowear/static/js/main.46a4d486.js.map",
     "651.5159fd39.chunk.css.map": "/ecowear/static/css/651.5159fd39.chunk.css.map",
     "651.7185f375.chunk.js.map": "/ecowear/static/js/651.7185f375.chunk.js.map",
     "320.5159fd39.chunk.css.map": "/ecowear/static/css/320.5159fd39.chunk.css.map",
@@ -156,6 +156,6 @@
   },
   "entrypoints": [
     "static/css/main.2dfd210f.css",
-    "static/js/main.fa290f97.js"
+    "static/js/main.46a4d486.js"
   ]
 }
